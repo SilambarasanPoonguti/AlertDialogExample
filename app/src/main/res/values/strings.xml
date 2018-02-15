@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">AlertDialogExample</string>
+  <string name="title_java">Java</string>
+  <string name="title_kotlin">Kotlin</string>
+  <string name="title">Alert Dialog Example</string>
+  <string name="show_alert">Show Alert</string>
+  <string name="show_alert_two_buttons">Show Alert(Two Buttons)</string>
+  <string name="show_alert_three_buttons">Show Alert(Three Buttons)</string>
+</resources>
